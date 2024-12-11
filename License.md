@@ -28,5 +28,3 @@ The mod **Spiral Dungeon of Babel | SDoB** is distributed under the following te
 
 ## 7. Updates and Support:
 - Mod updates will be made available on Modrinth, CurseForge, GameJolt, and Itch.io. Support for the mod can be requested through official channels.
-
-By accepting these terms, the user agrees to comply with the above conditions.
