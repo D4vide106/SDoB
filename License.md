@@ -28,3 +28,6 @@ The mod **Spiral Dungeon of Babel | SDoB** is distributed under the following te
 
 ## 7. Updates and Support:
 - Mod updates will be made available on Modrinth, CurseForge, GameJolt, and Itch.io. Support for the mod can be requested through official channels.
+
+## 8. Mod Usage Modpack
+- Feel free to include Spiral Dungeon of Babel in modpacks or share it, ensuring proper credit to D4vide106 and linking to the official sources (Modrinth, CurseForge, etc.).
